@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.virtual_documents/*
+
+.DS_Store
+
+places/*-places.sqlite*
